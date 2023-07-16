@@ -7,14 +7,14 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    font-family:sans-serif;
+    font-family:serif;
 }
 ul,ul.nav{
     list-style: none;
 }
 a{
     text-decoration: none;
-    color: inherit;
+    color: inherit; 
 }
 header{
     display: flex;
@@ -233,7 +233,7 @@ ul.about-content{
 /* mssg area */
 
 .msg-area{
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(/images/IMG_6611.JPG);
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(/images/IMG_6611.JPGiho);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
